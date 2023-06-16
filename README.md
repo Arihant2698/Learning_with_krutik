@@ -1,3 +1,31 @@
+Note (Non-technical):
+I have attached the pdf of the assignment
+
+
+1
+npx create-react-app appName
+2
+here we use different way tpp give css sso need to install below:
+npm i styled-components --legacy-peer-deps
+3
+npm start
+4
+npm install axios  
+5.
+npm install react-router-dom 6.
+
+Note (Technical):
+Here if we want to pass props from one component to another via "useNaviagation" 
+then we have to use uselocation at destination component 
+like i have used in UserHtml.js (source) and ProfileHtml.js (destination)
+
+//////////////////////////////
+git add .
+git commit -m "Comment"
+git status
+git init
+git push
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
